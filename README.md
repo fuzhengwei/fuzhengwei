@@ -1,4 +1,4 @@
-###  :man_technologist:  [小傅哥](https://bugstack.cn)
+###  :man_technologist:  [小傅哥](https://bugstack.cn)，[CodeGuide | 程序员编码指南](https://github.com/fuzhengwei/CodeGuide/wiki)
 
 👋 Hi, I'm FuZhengWei,a passionate self-taught backend developer from China 🚀. 
 
