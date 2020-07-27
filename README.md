@@ -8,8 +8,8 @@
 ### About
 
 -  **Learning :** Full-Stack Development :zap: | Open-Source :fire:    
--  **Languages :** Java, Netty, Mysql
--  **Hobbies :** Basketball :basketball: & Music :headphones:
+-  **Languages :** Java, ASM, Netty, Mysql
+-  **Hobbies :** ChineseChess :performing_arts: & Music :headphones: & Travel :airplane:
 -  **Fact :** First solve the problem, then write the code :heart:
 -  **Contact me :** [FuZhengWei](mailto:184172133@qq.com)
 
