@@ -9,7 +9,6 @@
 
 -  **Learning :** Full-Stack Development :zap: | Open-Source :fire:    
 -  **Languages :** Java, ASM, Netty, Mysql
--  **MyBook：** [《重学Java设计模式》](http://book.bugstack.cn/#s/6AneBuNA)，[《字节码编程》](http://book.bugstack.cn/#s/51Es_z_Q)
 -  **Hobbies :** ChineseChess :performing_arts: & Music :headphones:
 -  **Fact :** First solve the problem, then write the code :heart:
 -  **Contact me :** [XiaoFuGe](mailto:184172133@qq.com)
@@ -26,6 +25,10 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+### My Books
+
+[《重学Java设计模式》](http://book.bugstack.cn/#s/6AneBuNA)，[《字节码编程》](http://book.bugstack.cn/#s/51Es_z_Q)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
