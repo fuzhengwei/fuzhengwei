@@ -9,6 +9,7 @@
 
 -  **Learning :** Full-Stack Development :zap: | Open-Source :fire:    
 -  **Languages :** Java, ASM, Netty, Mysql
+-  **MyBook：** [《重学Java设计模式》](http://book.bugstack.cn/#s/6AneBuNA)，[《字节码编程》](http://book.bugstack.cn/#s/51Es_z_Q)
 -  **Hobbies :** ChineseChess :performing_arts: & Music :headphones:
 -  **Fact :** First solve the problem, then write the code :heart:
 -  **Contact me :** [XiaoFuGe](mailto:184172133@qq.com)
