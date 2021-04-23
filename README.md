@@ -28,9 +28,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-### My PDF Books
+### My Books
 
-#### - [小傅哥的《重学 Java 设计模式》](http://book.bugstack.cn/#s/6AneBuNA) ⭐⭐⭐⭐
+#### - [小傅哥的《重学 Java 设计模式》](https://item.jd.com/13218336.html) ⭐⭐⭐⭐
 
 >本书是作者`小傅哥`，投入50天时间，从互联网实际业务开发中抽离出，交易、营销、秒杀、中间件、源码等22个真实业务场景，编写了18万字271页的实战型Java编程资料。如果书中含有不易理解的内容，一定是作者在编写的过程中缺少必要的描述和严格的校准，感谢把你的意见或者疑问提交给我，也欢迎与我多一些交互，互相进步共同成长。
 
