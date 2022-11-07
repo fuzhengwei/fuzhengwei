@@ -2,7 +2,7 @@
 
 - :dog: 13年毕业，大厂互联网T8架构师，全网40万粉编程知识博主。
 - :man_technologist: 成长：[关于我，从小白到架构师的成长经历](https://www.bilibili.com/video/BV1FF41137q5)
-- :bus: 作品：[CodeGuide | 程序员编码指南](https://github.com/fuzhengwei/CodeGuide) | [RoadMap 编程路书](https://github.com/fuzhengwei/RoadMap) | [Java 数据结构和算法](https://github.com/fuzhengwei/java-algorithms) | [IM 仿微信](https://github.com/fuzhengwei/NaiveChat) | [Java 面经手册](https://github.com/fuzhengwei/interview) | [IntelliJ IDEA 插件开发](https://github.com/fuzhengwei/guide-idea-plugin)
+- :bus: 作品：[CodeGuide | 程序员编码指南](https://github.com/fuzhengwei/CodeGuide) | [RoadMap 编程路书](https://github.com/fuzhengwei/RoadMap) | [Java 数据结构和算法](https://github.com/fuzhengwei/java-algorithms) | [IM 仿微信](https://github.com/fuzhengwei/NaiveChat) | [Java 面经手册](https://github.com/fuzhengwei/interview) | [IntelliJ IDEA 插件开发](https://github.com/fuzhengwei/guide-idea-plugin) | [Lottery 抽奖系统 - 基于领域驱动设计的四层架构实践](https://bugstack.cn/md/project/lottery/introduce/Lottery%E6%8A%BD%E5%A5%96%E7%B3%BB%E7%BB%9F.html) | [API网关](https://bugstack.cn/md/assembly/api-gateway/2022-08-12-%E5%BC%80%E7%AF%87%EF%BC%9A%E5%A6%82%E6%9E%9C%E8%AE%A9%E6%88%91%E8%AE%BE%E8%AE%A1%E4%B8%80%E5%A5%97%EF%BC%8CTPS%E7%99%BE%E4%B8%87%E7%BA%A7API%E7%BD%91%E5%85%B3.html)
 - :seedling: 干货：[公众号『 bugstack虫洞栈 』](https://bugstack.cn/images/personal/qrcode.png)
 - :pencil: 博客：[bugstack.cn](https://bugstack.cn/) - 足够硬核，内容老狠了！
 - :tv: 视频：[B站 小傅哥の码场](https://space.bilibili.com/15637440)
