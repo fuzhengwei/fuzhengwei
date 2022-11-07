@@ -35,6 +35,6 @@
 
 >全书共计4章14节，215页4.2万字100+张图片，耗时3个月完成。涵盖4类14种数据结构，包括：链表、数组、队列、堆栈、哈希表、堆、字典树、二分搜索树、平衡二叉树、2-3树、红黑树、并查集、图、布隆过滤器。
 
-### 交个朋友👬🏻
+### 交个朋友 👬🏻
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
