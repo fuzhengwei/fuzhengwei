@@ -1,38 +1,23 @@
-###  :man_technologist:  [小傅哥](https://bugstack.cn)，[CodeGuide | 程序员编码指南](https://github.com/fuzhengwei/CodeGuide) - `多年架构经历总结`
+### 我是小傅哥
 
-👋 Hi, I'm FuZhengWei,a passionate self-taught backend developer from China 🚀. 
+- :dog: 13年毕业，大厂互联网T8架构师，全网40万粉编程知识博主。
+- :man_technologist: 成长：[关于我，从小白到架构师的成长经历](https://www.bilibili.com/video/BV1FF41137q5)
+- :bus: 作品：[CodeGuide | 程序员编码指南](https://github.com/fuzhengwei/CodeGuide) | [RoadMap 编程路书](https://github.com/fuzhengwei/RoadMap) | [Java 数据结构和算法](https://github.com/fuzhengwei/java-algorithms) | [IM 仿微信](https://github.com/fuzhengwei/NaiveChat) | [Java 面经手册](https://github.com/fuzhengwei/interview) | [IntelliJ IDEA 插件开发](https://github.com/fuzhengwei/guide-idea-plugin)
+- :seedling: 干货：[公众号『 bugstack虫洞栈 』](https://bugstack.cn/images/personal/qrcode.png)
+- :tv: 视频：[B站 小傅哥の码场](https://space.bilibili.com/15637440)
+- :love_letter: 微信：[fustack](https://bugstack.cn/images/personal/fustack.png) - 备注来意
+- :feet: 我的编程知识星球：[实战生产级项目、手写源码级框架，可以向我 1对1 提问，解答技术/职场/规划问题](https://bugstack.cn/md/zsxq/introduce.html)
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### 今年的努力 ✨
 
 [![XiaoFuGe's github stats](https://github-readme-stats.vercel.app/api?username=fuzhengwei&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/fuzhengwei)
 
+### 我的出版物
 
-### About
+- 2021：[重学Java设计模式](https://u.jd.com/4I2CXeO) —— 涵盖一线互联网业务开发的众多真实案例，包括交易、营销、秒杀等，并结合规则引擎、中间件、RPC设计等。
+- 2022：[手写Spring：渐进式源码实践](https://u.jd.com/4LapTH4) —— 从零手写源码级复杂项目，提升架构思维与设计逻辑。锻炼编码能力。
 
--  **Learning :** Full-Stack Development :zap: | Open-Source :fire:    
--  **Languages :** Java, ASM, Netty, Mysql
--  **Hobbies :** ChineseChess :performing_arts: & Music :headphones:
--  **Fact :** First solve the problem, then write the code :heart:
--  **Contact me :** [XiaoFuGe](mailto:184172133@qq.com)
-
-
-### Languages and Tools
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-### My Books
-
-#### - [小傅哥的《重学 Java 设计模式》](https://item.jd.com/13218336.html) ⭐⭐⭐⭐
-
->本书是作者`小傅哥`，基于互联网真实案例编写的Java设计模式实践图书。全书以解决方案为核心，从实际开发业务中抽离出交易、营销、规则引擎、中间件、框架源码等22个真实场景，对设计模式进行全面、彻底的分析。帮助读者灵活地使用各种设计模式，从容应对复杂变化的业务需求，编写出易维护、可扩展的代码结构。
+### 我的电子书
 
 #### - [小傅哥的《SpringBoot 中间件设计和开发》](https://juejin.cn/book/6940996508632219689) ⭐⭐⭐⭐⭐
 >全网唯一一次手把手教你造轮子、写中间件，因为这样的技术离P7最近、离架构师最近、离高薪资最近！小册16个中间件实现，包括测试工程等共计30个代码库，每一章节都会对应有一个中间件的设计和实现，为了便于读者快速有效的学习小册中的技术内容，在小册的每一章节中都涵盖；开篇引导、需求背景、方案设计、技术实现、测试验证和文末总结。
@@ -40,10 +25,6 @@
 #### - [小傅哥的《Java 面经手册》](https://download.csdn.net/download/Yao__Shun__Yu/14932325) ⭐⭐⭐⭐
 
 >全书共计 5 章 29 节，417页11.5万字，耗时 4 个月完成。涵盖数据结构、算法逻辑、并发编程、JVM以及简历和互联网大厂面试等内容。但此书并不是单纯的面试题，也不是内卷八股文。而是从一个单纯的和程序员有关的数学知识点开始，深入讲解 Java 的核心技术。并且每一章节都配有实践验证的源码，可以对照着一起撸才更有感觉！
-
-#### - [小傅哥的《手撸 Spring》](https://download.csdn.net/download/Yao__Shun__Yu/21009038) ⭐⭐⭐⭐⭐
-
->通过带着读者手写简化版 Spring 框架，了解 Spring 核心原理。在手写Spring 源码的过程中会摘取整体框架中的核心逻辑，简化代码实现过程，保留核心功能，例如：IOC、AOP、Bean生命周期、上下文、作用域、资源处理等内容实现。
 
 #### - [小傅哥的《字节码编程》密码：Rlxbh1ia](http://pan.bugstack.cn/?dl=05b281eff1476e2c22eb5114ced0dc4d) ⭐⭐⭐
 
@@ -53,7 +34,6 @@
 
 >全书共计4章14节，215页4.2万字100+张图片，耗时3个月完成。涵盖4类14种数据结构，包括：链表、数组、队列、堆栈、哈希表、堆、字典树、二分搜索树、平衡二叉树、2-3树、红黑树、并查集、图、布隆过滤器。
 
-### Wait for you
+### 交个朋友👬🏻
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-
