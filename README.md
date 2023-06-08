@@ -13,6 +13,19 @@
 
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=fuzhengwei&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuzhengwei&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
+### 开发的项目
+
+- 业务项目
+	- [ChatGPT 微服务应用体系构建 - API-SDK、鉴权、公众号、企业微信、支付服务](https://bugstack.cn/md/zsxq/project/chatgpt.html)- 👣 进行中
+	- [Lottery 分布式抽奖系统 - 基于领域驱动设计的四层架构实践](https://bugstack.cn/md/zsxq/project/lottery.html)
+	- [Netty+JavaFx实战：仿桌面版微信聊天](https://bugstack.cn/md/zsxq/project/im.html)
+	- [ChatGPT AI 问答助手 - 小型，对接知识星球](https://bugstack.cn/md/zsxq/project/chatbot-api.html)
+
+- 组件项目
+  - [API网关：中间件设计和实践](https://bugstack.cn/md/zsxq/project/api-gateway.html)
+  - [SpringBoot Starter 中间件设计和开发](https://bugstack.cn/md/zsxq/project/springboot-starter.html)
+  - [IDEA Plugin 开发手册](https://bugstack.cn/md/zsxq/booklet/idea-plugin.html)
+
 ### 我的出版物
 
 - 2021年出版[《重学Java设计模式》](https://u.jd.com/4I2CXeO) —— 涵盖一线互联网众多真实案例；交易、营销、秒杀、规则引擎等场景
