@@ -12,6 +12,7 @@
 ### 开发的项目
 
 - 业务项目
+    - [拼团交易平台系统（新）- 手把手从0到1设计开发实现，含所有设计开发过程的视频](https://bugstack.cn/md/project/group-buy-market/group-buy-market.html)
     - [大营销平台系统 - 前后端 + Dev-Ops 的全栈式综合编程实战DDD项目！](https://bugstack.cn/md/project/big-market/big-market.html)
     - [OpenAi 大模型微服务应用体系构建 - API-SDK、鉴权、公众号、微信支付](https://bugstack.cn/md/zsxq/project/chatgpt.html)
     - [Lottery 分布式抽奖系统 - 基于领域驱动设计的四层架构实践](https://bugstack.cn/md/zsxq/project/lottery.html)
