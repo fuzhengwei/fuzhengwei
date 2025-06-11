@@ -12,7 +12,7 @@
 ### 开发的项目
 
 - 业务项目
-    - [DeepSeep RAG&MCP 知识库 - 解析文档&Git仓库代码&AI工作流](https://bugstack.cn/md/project/ai-knowledge/ai-knowledge.html)
+    - [DeepSeek RAG&MCP&Agent 智能体 - 解析文档&Git仓库代码&AI工作流](https://bugstack.cn/md/project/ai-knowledge/ai-knowledge.html)
     - [拼团交易平台系统（新）- 手把手从0到1设计开发实现，含所有设计开发过程的视频](https://bugstack.cn/md/project/group-buy-market/group-buy-market.html)
     - [大营销平台系统 - 前后端 + Dev-Ops 的全栈式综合编程实战DDD项目！](https://bugstack.cn/md/project/big-market/big-market.html)
     - [OpenAi 大模型微服务应用体系构建 - API-SDK、鉴权、公众号、微信支付](https://bugstack.cn/md/zsxq/project/chatgpt.html)
