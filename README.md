@@ -21,6 +21,7 @@
     - [ChatGPT AI 问答助手 - 小型，对接知识星球](https://bugstack.cn/md/zsxq/project/chatbot-api.html)
 
 - 组件项目
+    - [MCP Gateway 网关服务系统 - 为各类应用服务接口，便捷转换为MCP服务而设计](https://bugstack.cn/md/project/mcp-gateway/mcp-gateway.html)
     - [OpenAI 代码自动评审组件](https://bugstack.cn/md/zsxq/project/openai-code-review.html)
     - [透视业务流程 - 监控系统](https://bugstack.cn/md/zsxq/project/business-behavior-monitor.html)
     - [动态线程池组件](https://bugstack.cn/md/zsxq/project/dynamic-thread-pool.html)
