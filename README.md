@@ -11,18 +11,21 @@
 
 ### 开发的项目
 
-- 业务项目
+- 创新项目（AI）
+    - [（更）MCP Gateway 网关服务系统 - 为各类应用服务接口，便捷转换为MCP服务而设计](https://bugstack.cn/md/project/ai-mcp-gateway/ai-mcp-gateway.html)
     - [DeepSeek RAG&MCP&Agent 智能体 - 解析文档&Git仓库代码&AI工作流](https://bugstack.cn/md/project/ai-knowledge/ai-knowledge.html)
-    - [拼团交易平台系统（新）- 手把手从0到1设计开发实现，含所有设计开发过程的视频](https://bugstack.cn/md/project/group-buy-market/group-buy-market.html)
-    - [大营销平台系统 - 前后端 + Dev-Ops 的全栈式综合编程实战DDD项目！](https://bugstack.cn/md/project/big-market/big-market.html)
     - [OpenAi 大模型微服务应用体系构建 - API-SDK、鉴权、公众号、微信支付](https://bugstack.cn/md/zsxq/project/chatgpt.html)
+    - [OpenAI 代码自动评审组件](https://bugstack.cn/md/zsxq/project/openai-code-review.html)
+    - [ChatGPT AI 问答助手 - 小型，对接知识星球](https://bugstack.cn/md/zsxq/project/chatbot-api.html)
+      
+- 业务项目
+    - [拼团交易平台系统（新）- 手把手从0到1设计开发实现，含所有设计开发过程的视频](https://bugstack.cn/md/project/group-buy-market/group-buy-market.html)
+    - [小型支付商城 - MVC&DDD 双工程架构个开发一遍，教小白从MVC到DDD学习](https://bugstack.cn/md/project/big-market/big-market.html)
+    - [大营销平台系统 - 前后端 + Dev-Ops 的全栈式综合编程实战DDD项目！](https://bugstack.cn/md/project/big-market/big-market.html)
     - [Lottery 分布式抽奖系统 - 基于领域驱动设计的四层架构实践](https://bugstack.cn/md/zsxq/project/lottery.html)
     - [Netty+JavaFx实战：仿桌面版微信聊天](https://bugstack.cn/md/zsxq/project/im.html)
-    - [ChatGPT AI 问答助手 - 小型，对接知识星球](https://bugstack.cn/md/zsxq/project/chatbot-api.html)
 
 - 组件项目
-    - [MCP Gateway 网关服务系统 - 为各类应用服务接口，便捷转换为MCP服务而设计](https://bugstack.cn/md/project/ai-mcp-gateway/ai-mcp-gateway.html)
-    - [OpenAI 代码自动评审组件](https://bugstack.cn/md/zsxq/project/openai-code-review.html)
     - [透视业务流程 - 监控系统](https://bugstack.cn/md/zsxq/project/business-behavior-monitor.html)
     - [动态线程池组件](https://bugstack.cn/md/zsxq/project/dynamic-thread-pool.html)
     - [蓝兔支付SDK设计和开发](https://bugstack.cn/md/zsxq/project/ltzf-sdk-java.html)
