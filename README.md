@@ -26,6 +26,7 @@
     - [Netty+JavaFx实战：仿桌面版微信聊天](https://bugstack.cn/md/zsxq/project/im.html)
 
 - 组件项目
+    - [本地任务消息组件 - 为事务和消息推送（HTTP、MQ），提供最终一致性解决方案](https://bugstack.cn/md/project/local-task-message/local-task-message.html)
     - [透视业务流程 - 监控系统](https://bugstack.cn/md/zsxq/project/business-behavior-monitor.html)
     - [动态线程池组件](https://bugstack.cn/md/zsxq/project/dynamic-thread-pool.html)
     - [蓝兔支付SDK设计和开发](https://bugstack.cn/md/zsxq/project/ltzf-sdk-java.html)
