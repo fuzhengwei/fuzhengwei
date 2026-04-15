@@ -13,9 +13,9 @@
 ### 开发的项目
 
 - 创新项目（AI）
-    - [（更）AI Agent 脚手架 + 场景应用 - 综合 Spring AI、LangChain4j + Google ADK（a2a、mcp、skills、agent work flow），打造全新智能体架构方案。](https://origin.bugstack.cn/md/project/ai-agent-scaffold/ai-agent-scaffold.html) 
     - [（更）MCP Gateway 网关服务系统 - 为各类应用服务接口，便捷转换为MCP服务而设计](https://bugstack.cn/md/project/ai-mcp-gateway/ai-mcp-gateway.html)
-    - [DeepSeek RAG&MCP&Agent 智能体 - 解析文档&Git仓库代码&AI工作流](https://bugstack.cn/md/project/ai-knowledge/ai-knowledge.html)
+    - [AI Agent 脚手架 + 场景应用 - 综合 Spring AI、LangChain4j + Google ADK（a2a、mcp、skills、agent work flow），打造全新智能体架构方案。](https://origin.bugstack.cn/md/project/ai-agent-scaffold/ai-agent-scaffold.html) 
+    - [AI Agent 拖拉拽 + 动态配置（RAG、MCP、Prompt） - 解析文档&Git仓库代码&AI工作流](https://bugstack.cn/md/project/ai-knowledge/ai-knowledge.html)
     - [OpenAi 大模型微服务应用体系构建 - API-SDK、鉴权、公众号、微信支付](https://bugstack.cn/md/zsxq/project/chatgpt.html)
     - [OpenAI 代码自动评审组件](https://bugstack.cn/md/zsxq/project/openai-code-review.html)
     - [ChatGPT AI 问答助手 - 小型，对接知识星球](https://bugstack.cn/md/zsxq/project/chatbot-api.html)
