@@ -14,6 +14,8 @@
 ### 开发的项目
 
 - 创新项目（AI）
+    - [AI Agent Guide - 通识教程(前置课程)](https://ai-agent-guide.xiaofuge.cn/)
+    - [（更）WaLiCode - AI Coding/DevOps 可持续交付助手](https://bugstack.cn/md/project/walicode/walicode.html)
     - [（更）WaLiSSH 智能 AI 运维软件服务 - AI SSH 运维工具服务，让 AI 帮你操作服务器！](https://bugstack.cn/md/project/walissh/walissh.html)
     - [AI MCP Gateway 网关服务系统 - 为各类应用服务接口，便捷转换为MCP服务而设计](https://bugstack.cn/md/project/ai-mcp-gateway/ai-mcp-gateway.html)
     - [AI Agent 脚手架 + 场景应用 - 综合 Spring AI、LangChain4j + Google ADK（a2a、mcp、skills、agent work flow），打造全新智能体架构方案。](https://origin.bugstack.cn/md/project/ai-agent-scaffold/ai-agent-scaffold.html) 
